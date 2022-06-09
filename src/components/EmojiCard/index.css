@@ -1,0 +1,15 @@
+/* Write your code here. */
+.emoji-item {
+  margin-right: 10px;
+  margin-top: 10px;
+}
+.emoji-button {
+  background-color: #ffffff33;
+  border-radius: 10px;
+  height: 100px;
+  width: 130px;
+}
+.emoji-img {
+  height: 60px;
+  width: 60px;
+}
