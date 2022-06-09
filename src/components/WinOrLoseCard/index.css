@@ -15,15 +15,21 @@
 .img {
   height: 150px;
   width: 150px;
+  margin-top: 30px;
 }
 .game-status {
   color: #ffffff;
+  font-size: 25px;
 }
 .score-label {
   color: #ffffff;
+  font-size: 20px;
+  margin-top: 0px;
 }
 .score {
   color: #ffffff;
+  font-size: 20px;
+  margin-top: 0px;
 }
 .button {
   background-color: #ffce27;
@@ -31,6 +37,10 @@
   height: 25px;
   width: 100px;
   border-radius: 10px;
-  border:none;
+  border: none;
   outline: none;
+  margin-top: 0px;
+}
+.status {
+  color: #ffffff;
 }
